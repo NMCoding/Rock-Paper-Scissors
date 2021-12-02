@@ -2,7 +2,7 @@
 
 We’re going to make a simple implementation of grade-school classic “rock paper scissors”. For the moment we’re just going to play the game from the browser console.
 
-We will use 'prompt()'  to get input from the user, but to start playerSelection is hard-coded as rock.
+We will use prompt  to get input from the user, but to start playerSelection is hard-coded as rock.
 
 ## Assignment
 

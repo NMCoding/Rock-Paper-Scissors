@@ -21,11 +21,8 @@ function playGame(playerSelection, computerSelection) {
   } else if 
   
   } else (playerSelection ) 
-    
-    (computerSelection === 'rock' && playerSelection === 'scissors') ||
-    (computerSelection === 'scissors' && playerSelection === 'paper') ||
-    (computerSelection === 'paper' && playerSelection === 'rock') 
-  ) {
+   
+  ) 
     console.log("You Lose") 
   } else {
 

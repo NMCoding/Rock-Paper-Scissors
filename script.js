@@ -14,13 +14,15 @@ function computerPlay() {
 
 let computerSelection = computerPlay();
 
-<div class="button-box">
+{
+  /* <div class="button-box">
   <button id="Rock">Rock</button>
 
   <button id="Paper">Paper</button>
 
   <button id="Scissors">Scissors</button>
-</div>;
+</div>; */
+}
 
 function playGame(playerSelection, computerSelection) {
   if (playerSelection === computerSelection) {
